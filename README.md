@@ -1,16 +1,26 @@
 <h1 align="center">Hi 👋, I'm Suresh Kumar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<hr>
+<hr><hr><hr>
 <img src="https://github.com/sureshbarach2001/Personal-Portfolio/blob/main/ScreenShot/Screenshot%202024-03-10%20232136.png" alt="Personal-Portfolio" />
+<hr><hr><hr>
 <img src="https://github.com/sureshbarach2001/Personal-Portfolio/blob/main/ScreenShot/Screenshot%202024-03-10%20232214.png" alt="Personal-Portfolio" />
+<hr><hr><hr>
 <img src="https://github.com/sureshbarach2001/Personal-Portfolio/blob/main/ScreenShot/Screenshot%202024-03-10%20232247.png" alt="Personal-Portfolio" />
+<hr><hr><hr>
 <img src="https://github.com/sureshbarach2001/Personal-Portfolio/blob/main/ScreenShot/Screenshot%202024-03-10%20232312.png" alt="Personal-Portfolio" />
+<hr><hr><hr>
 <img src="https://github.com/sureshbarach2001/Personal-Portfolio/blob/main/ScreenShot/Screenshot%202024-03-10%20232333.png" alt="Personal-Portfolio" />
+<hr><hr><hr>
 <img src="https://github.com/sureshbarach2001/Personal-Portfolio/blob/main/ScreenShot/Screenshot%202024-03-10%20232357.png" alt="Personal-Portfolio" />
+<hr><hr><hr>
 <img src="https://github.com/sureshbarach2001/Personal-Portfolio/blob/main/ScreenShot/Screenshot%202024-03-10%20232424.png" alt="Personal-Portfolio" />
+<hr><hr><hr>
 <img src="https://github.com/sureshbarach2001/Personal-Portfolio/blob/main/ScreenShot/Screenshot%202024-03-10%20232456.png" alt="Personal-Portfolio" />
+<hr><hr><hr>
 <img src="https://github.com/sureshbarach2001/Personal-Portfolio/blob/main/ScreenShot/Screenshot%202024-03-10%20232533.png" alt="Personal-Portfolio" />
+<hr><hr><hr>
 <img src="https://github.com/sureshbarach2001/Personal-Portfolio/blob/main/ScreenShot/Screenshot%202024-03-10%20232604.png" alt="Personal-Portfolio" />
+<hr><hr><hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sureshbarach2001&label=Profile%20views&color=0e75b6&style=flat" alt="sureshbarach2001" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sureshbarach2001" alt="sureshbarach2001" /></a> </p>
