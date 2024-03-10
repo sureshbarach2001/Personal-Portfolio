@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suresh Kumar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img src="https://github.com/sureshbarach2001/Personal-Portfolio/blob/main/ScreenShot/Screenshot%202024-03-10%20232136.png" alt="Personal-Portfolio" />
-<img src="https://github.com/sureshbarach2001/Personal-Portfolio/blob/main/ScreenShot/Screenshot%202024-03-10%202322314.png" alt="Personal-Portfolio" />
+<img src="https://github.com/sureshbarach2001/Personal-Portfolio/blob/main/ScreenShot/Screenshot%202024-03-10%20232214.png" alt="Personal-Portfolio" />
 <img src="https://github.com/sureshbarach2001/Personal-Portfolio/blob/main/ScreenShot/Screenshot%202024-03-10%20232247.png" alt="Personal-Portfolio" />
 <img src="https://github.com/sureshbarach2001/Personal-Portfolio/blob/main/ScreenShot/Screenshot%202024-03-10%20232312.png" alt="Personal-Portfolio" />
 <img src="https://github.com/sureshbarach2001/Personal-Portfolio/blob/main/ScreenShot/Screenshot%202024-03-10%20232333.png" alt="Personal-Portfolio" />
