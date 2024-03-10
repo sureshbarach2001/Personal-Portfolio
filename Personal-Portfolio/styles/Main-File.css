@@ -1,0 +1,58 @@
+.section{
+    display: grid;
+    height: 100vh;
+    grid-template-columns: 1fr 1fr;
+}
+
+body{
+    margin: 0px;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.social-icons {
+    margin-top: 4px;
+    
+    display: flex;
+    justify-content: center;
+}
+
+.social-icons a {
+    margin: 0 10px;
+    text-align: left;
+}
+
+.menu-bar{
+    color: black;
+    font:bold;
+    font-size: medium;
+    display: flex;
+    justify-content: center;
+}
+
+.link{
+    color: black;
+    font-weight:bold;
+    font-size: medium;
+    text-decoration: none;
+    margin-left: 48px;
+}
+
+.linker{
+    display: flex;
+    justify-content: center;
+}
+.logo{
+    margin-bottom: 7px;
+    color:black;
+    font-weight:bold;
+    font-size: medium;
+    text-decoration: underline;
+}
+.main1{
+    position: relative;
+    bottom: -60px;
+}

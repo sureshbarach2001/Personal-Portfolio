@@ -1,0 +1,146 @@
+.container{
+    
+    display: flex;
+    height: 100%;
+    width: 60%;
+    grid-gap: 10px;
+    margin-left: 22%;
+    margin-bottom: 10px;
+}
+.portfo{
+    padding-left: 33%;
+   text-align: center;
+    justify-content: center;
+}
+.text1{
+    font-weight: bold;
+    font-size: 22px;
+    color: white;
+    height: 100px;
+    width: 400px;
+    text-align: center;
+}
+
+.pic{
+    height: 400px;
+width: 100%;
+object-fit: fill;
+border: 3px solid rgb(60, 66, 117);
+}
+body{
+    background-color: black;
+    cursor: none;
+}
+
+.pi1{
+    z-index: 1;
+    flex: 1;
+    height: 400px;
+    width: 100%;
+  
+
+}
+.pi1:hover{
+    transform: scale(0.15);
+}
+.pi2{
+
+    height: 400px;
+    width: 100%;
+}
+.pi3{
+    flex: 1;
+    height: 400px;
+    width: 100%;
+}
+.pi4{
+    flex: 1;
+    height: 400px;
+    width: 100%;
+  
+}
+
+.pointer{
+    z-index: 100;
+    top: 0px;
+    left: 0px;
+
+height: 37px;
+width: 37px;
+    position: absolute;
+ 
+}
+
+.text-1{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    top: -403px;
+    left: 0px;
+    opacity: 0;
+    margin: 0px;
+    z-index: 100;
+ align-items: last baseline;
+ justify-content: center;
+    color: white;
+    position: relative;
+    transition: 0.75s;
+}
+
+.text-1:hover{
+    opacity: 1;
+}
+#text-1{
+    background-image: linear-gradient(180deg,rgba(255,0,0,0),gray);
+
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.social-icons {
+    margin-top: 4px;
+    
+    display: flex;
+    justify-content: center;
+}
+
+.social-icons a {
+    margin: 0 10px;
+    text-align: left;
+}
+
+.menu-bar{
+    color: black;
+    font:bold;
+    font-size: medium;
+    display: flex;
+    justify-content: center;
+}
+
+.link{
+    color: white;
+    font-weight:bold;
+    font-size: medium;
+    text-decoration: none;
+    margin-left: 48px;
+}
+
+.linker{
+    display: flex;
+    justify-content: center;
+}
+.logo{
+    margin-bottom: 7px;
+    color:white;
+    font-weight:bold;
+    font-size: medium;
+    text-decoration: underline;
+}
+.main1{
+    z-index: 600;
+    position: relative;
+    bottom: -43px;
+}
