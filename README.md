@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suresh Kumar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <hr>
-<p align="left">DEMO View --> <a href="https://sureshbarach2001.freewebhostmost.com"><img src="https://github.com/sureshbarach2001/Personal-Portfolio/blob/main/images/favicon.png" alt="sureshbarach2001" /></a> </p>
+<p align="left">DEMO View --> Click THIS PNG { <a href="https://sureshbarach2001.freewebhostmost.com"><img src="https://github.com/sureshbarach2001/Personal-Portfolio/blob/main/images/favicon.png" alt="sureshbarach2001" /></a>} </p>
 <hr><hr>
 <img src="https://github.com/sureshbarach2001/Personal-Portfolio/blob/main/ScreenShot/Screenshot%202024-03-10%20232136.png" alt="Personal-Portfolio" />
 <hr><hr><hr>
